@@ -27,7 +27,7 @@ class FirstFragment : Fragment() {
                     .navigate(R.id.action_FirstFragment_to_SecondFragment)
         }
         view.findViewById<View>(R.id.button_test).setOnClickListener {
-            tvTest = view.findViewById(R.id.button_test)
+            tvTest = view.findViewById(R.id.textview_first)
             tvTest?.setText(getString(R.string.testHello))
         }
     }
