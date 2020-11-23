@@ -11,4 +11,5 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="test">Say hello!</string>
     <string name="testHello">Hello to everbody!!!</string>
+    <string name="title">Bloc-notes</string>
 </resources>

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.dmitry.pisarevskiy.bloc_notes.FirstFragment"
+        android:name="com.dmitry.pisarevskiy.bloc_notes.ui.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.dmitry.pisarevskiy.bloc_notes.SecondFragment"
+        android:name="com.dmitry.pisarevskiy.bloc_notes.ui.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 
