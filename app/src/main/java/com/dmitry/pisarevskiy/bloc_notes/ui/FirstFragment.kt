@@ -1,13 +1,13 @@
-package com.dmitry.pisarevskiy.bloc_notes
+package com.dmitry.pisarevskiy.bloc_notes.ui
 
 import android.os.Bundle
-import android.service.autofill.TextValueSanitizer
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.NavHostFragment
+import com.dmitry.pisarevskiy.bloc_notes.R
 
 class FirstFragment : Fragment() {
     private var tvTest:TextView? = null
